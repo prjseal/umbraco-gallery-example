@@ -13,3 +13,5 @@
 /GalleryExample.Web/App_Data/Logs
 /GalleryExample.Web/App_Data/TEMP
 /GalleryExample.Web/App_Data/umbraco.config
+/GalleryExample.Web/App_Data/cache
+/GalleryExample.Web/App_Data/Models
