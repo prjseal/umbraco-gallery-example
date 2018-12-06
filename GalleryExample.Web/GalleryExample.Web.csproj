@@ -282,6 +282,7 @@
     <Content Include="css\Footer-Basic.css" />
     <Content Include="css\Navigation-Clean1.css" />
     <Content Include="css\News-Cards.css" />
+    <Content Include="css\simpleLightbox.min.css" />
     <Content Include="css\styles.css" />
     <Content Include="css\StylesDropdown.css" />
     <Content Include="default.aspx" />
@@ -295,6 +296,7 @@
     <Content Include="scripts\jquery.validate.min.js" />
     <Content Include="scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="scripts\navigationMenu.js" />
+    <Content Include="scripts\simpleLightbox.min.js" />
     <Content Include="Views\Partials\Contact\_ContactForm.cshtml" />
     <Content Include="Views\Partials\Contact\_Error.cshtml" />
     <Content Include="Views\Partials\Contact\_Success.cshtml" />
@@ -354,6 +356,8 @@
     <Content Include="Views\Partials\SiteLayout\_MetaData.cshtml" />
     <Content Include="Views\PrettyLink.cshtml" />
     <Content Include="Views\Search.cshtml" />
+    <Content Include="Views\Gallery.cshtml" />
+    <Content Include="Views\Partials\Content\_Gallery.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
