@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/GalleryExample.Web/App_Data/NuGetBackup
+/GalleryExample.Web/App_Plugins/ModelsBuilder
+/GalleryExample.Web/bin
+/GalleryExample.Web/obj/Debug
+/GalleryExample.Web/Umbraco
+/GalleryExample.Web/Umbraco_Client
+/packages
