@@ -10,3 +10,6 @@
 /GalleryExample.Web/Umbraco
 /GalleryExample.Web/Umbraco_Client
 /packages
+/GalleryExample.Web/App_Data/Logs
+/GalleryExample.Web/App_Data/TEMP
+/GalleryExample.Web/App_Data/umbraco.config
